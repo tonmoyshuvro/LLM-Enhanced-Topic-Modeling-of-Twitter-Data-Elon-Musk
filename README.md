@@ -50,7 +50,7 @@ elon-musk-tweets-analysis/
    ```
 
 4. **Download the Dataset**:
-   - Obtain the dataset from [Kaggle](https://www.kaggle.com/datasets/7006744/elon-musks-tweet).
+   - Obtain the dataset from [Kaggle](https://www.kaggle.com/datasets/dadalyndell/elon-musk-tweets-2010-to-2025-march).
    - Place it in the `/data/` directory or update the notebook's file path accordingly.
 
 5. **Hugging Face Authentication**:
