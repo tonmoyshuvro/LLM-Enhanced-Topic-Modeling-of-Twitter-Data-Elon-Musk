@@ -34,8 +34,7 @@ elon-musk-tweets-analysis/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/elon-musk-tweets-analysis.git
-   cd elon-musk-tweets-analysis
+   git clone <LINK>.git
    ```
 
 2. **Set Up a Virtual Environment**:
